@@ -41,7 +41,7 @@ p {
 height: 200px;
 
  }
-.catoria-videos{
+.categoria-videos{
 
   display: flex;
   overflow-x: auto;
@@ -54,11 +54,11 @@ height: 200px;
 
 }
 
-.catoria-videos img {
+.categoria-videos img {
     opacity: 0.5;
 
 }
-.catoria-videos img:hover{
+.categoria-videos img:hover{
    opacity: 1.0;
 
 }
