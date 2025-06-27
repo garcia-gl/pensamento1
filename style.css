@@ -37,11 +37,7 @@ p {
    font-size: 20px;
    
 }
-img{
- height: 200px
-
-}
-
+kk
 .catoria-vieos{
 
   display: flex;
@@ -52,9 +48,14 @@ img{
 .categoria{
   padding-left:20px;
   padding-right: 20px;
-  
+
 }
 
+.catoria-vieos img {
+    opacity: 0.5;
+    height: 200px
+
+}
 
 
 
