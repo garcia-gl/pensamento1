@@ -37,7 +37,10 @@ p {
    font-size: 20px;
    
 }
+ img {
+height: 200px;
 
+ }
 .catoria-vieos{
 
   display: flex;
@@ -53,7 +56,6 @@ p {
 
 .catoria-vieos img {
     opacity: 0.5;
-    height: 200px;
 
 }
 
